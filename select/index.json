@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ちゅだい - Chxxai",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-05T09:59:04.610530Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちゅだい - Chxxai",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_ちゅだい_-_Chxxai_CreepyNuts.txt"
+    }
+  ]
+}
